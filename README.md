@@ -18,8 +18,8 @@
 ![](	https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### <h1>👨‍💻 Github's Stats:</h1>
-[![Davide-02 github stats](https://github-readme-stats.vercel.app/api?username=Davide-02)](https://github.com/Davide-02) <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davide-02&layout=compact)](https://github.com/Davide-02)<br>
+[![Davide-02 github stats](https://github-readme-stats.vercel.app/api?username=Davide-02&theme=dark)](https://github.com/Davide-02) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davide-02&theme=dark&layout=compact)](https://github.com/Davide-02)<br>
 ![Davide-02 github stats](https://github-readme-streak-stats.herokuapp.com/?user=Davide-02&theme=dark&hide_border=false)<br>
 
 <img src="https://komarev.com/ghpvc/?username=Davide-02&style=flat-square&color=blue" alt=""/>
