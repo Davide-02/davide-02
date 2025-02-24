@@ -1,6 +1,6 @@
 ### <h1>👋 About Me:</h1>
  🔭 Currently, I'm working on innovative web projects. 🌐🚀 <br>
-🌱 I'm learning cutting-edge technologies to enhance my skills. 📚💡 <br>
+🌱 I'm learning AI & Deep Learning with Python and PyTorch. 📚💡 <br>
 👯 I'm seeking exciting collaborations in web development. 🤝🌈<br>
 💬 Feel free to ask me anything about design and web development. 💻🎨<br>
 📫 Contact me at hello@davidescalone.it 📧📬<br>
